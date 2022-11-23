@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Vishesh Prajapati",
+    "occupation": "Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hello,I am a positive, enthusiastic and competent Web Developer, who over the years has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role.",
+
+    "contactmessage": "Get in touch with me.",
+    "email": "visheshprajapati786@gmail.com",
+    "phone": "+91 8169735530",
+    "address": {
+      "street": "B1 Hirakunj soc. Odhav Dham",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400084"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vishesh.D.prajapati",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vishesh-prajapati-b3298a128",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_vishesh.prajapati_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Crypton-07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Mumbai - Maharashtra",
+        "degree": "Master's Degree, Information Technology",
+        "graduated": "June 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "TCS",
+        "title": "Assistant System Engineer",
+        "years": "August 2020 - Present",
+        "description": "I am an assistant system engineer(ASE). I Love to build web application."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Netflix1.png",
+        "url": "https://netflix-clone-edaa5.web.app/"
+      },
+      {
+        "title": "Portfolio 1.0",
+        "category": "",
+        "image": "project1.png",
+        "url": "https://crypton-07.github.io/Portfolio/"
+      },
+      {
+        "title": "Restaurant web design",
+        "category": "",
+        "image": "Restaurant1.png",
+        "url": "https://crypton-07.github.io/Restaurant-Web-Design/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
