@@ -96,6 +96,12 @@
         "category": "",
         "image": "Restaurant1.png",
         "url": "https://crypton-07.github.io/Restaurant-Web-Design/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "Amazon.png",
+        "url": "https://amazon-clone-app-roan.vercel.app/"
       }
     ]
   },
