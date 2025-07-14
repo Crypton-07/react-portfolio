@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Vishesh Prajapati",
+    "occupation": "Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "I am a dedicated and results-driven Full Stack Web Developer with a strong foundation in both frontend and backend technologies. With hands-on experience across diverse projects, I bring a blend of creativity, problem-solving, and technical excellence. Passionate about building scalable, user-centric applications that deliver real business value.",
+    "contactmessage": "Get in touch with me.",
+    "email": "visheshprajapati786@gmail.com",
+    "phone": "+91 8169735530",
+    "address": {
+      "street": "B1 Hirakunj soc. Asalpha Village",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400084"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vishesh.D.prajapati",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vishesh-prajapati-b3298a128",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_vishesh.prajapati_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Crypton-07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Mumbai - Maharashtra",
+        "degree": "Master's Degree, Information Technology",
+        "graduated": "June 2021",
+        "description": "Graduated with First Class Honours - 8.30 CGPA."
+      }
+    ],
+    "work": [
+      {
+        "company": "TCS",
+        "title": "Product Engineer",
+        "years": "August 2020 - Present",
+        "description": "At TCS, I worked as a Product Engineer developing a Loan Onboarding Application for ING Bank (Australia). I built UDCs, reusable components, handled UI design, and integrated APIs using React.js, JavaScript, and Angular—sharpening my technical skills and preparing me to contribute effectively to new opportunities."
+      },
+      {
+        "company": "Accenture",
+        "title": "Senior Software Engineer",
+        "years": "Sept 2024 - Present",
+        "description": "As a Senior Software Engineer at Accenture, I work on the Best Buy eCommerce project, handling full-stack development using JavaScript, React, Redux, and Node.js. I build scalable web applications, create APIs, optimize performance, and collaborate with cross-functional teams to deliver high-quality, user-centric solutions across frontend and backend."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "HTML | CSS | Tailwind",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Netflix1.png",
+        "url": "https://netflixgpt-react.vercel.app/"
+      },
+      {
+        "title": "Spotify",
+        "category": "",
+        "image": "Spotify.png",
+        "url": "https://spotify-clone-yt.netlify.app/"
+      },
+      {
+        "title": "AirBNB",
+        "category": "",
+        "image": "AIRBNB.png",
+        "url": "https://airbnb-clone-vishesh.netlify.app/"
+      },
+      {
+        "title": "AI Image Genrating APP",
+        "category": "",
+        "image": "AI_IMAGE_APP.png",
+        "url": "https://ai-image-generating-app.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vishesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Vishesh has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
